@@ -1,0 +1,23 @@
+
+.Center-t{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+.toast-img{
+    height: 190px;
+    width: 200px;
+    margin-left: 55px;
+    border-radius: 110px;
+}
+.close-but{
+    margin-left: 320px;
+}
+
+.ddword{
+    margin-top: 25px;
+    margin-left: 15px;
+    color: black;
+    background-color:lightgreen;
+}

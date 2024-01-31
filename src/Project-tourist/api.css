@@ -1,0 +1,31 @@
+.simple-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .simple-table th, .simple-table td {
+    border: 1px solid wheat;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .simple-table th {
+    background-color: lightcoral;
+  }
+   body{
+    background-color: black;
+  }
+  td{
+    color: white;
+  } 
+
+  th{
+    color: white;
+  }
+  .Toast-call{
+    color: wheat;
+    background-color: green;
+    border-color: green;
+    border-color: green;
+  }
